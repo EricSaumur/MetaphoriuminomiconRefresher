@@ -8,4 +8,4 @@ Not all of this has been achieved yet.
 2) The new wrap has not been completed or applied to all pages in the target.
 3) Not all links have been changed to point at the resources in the target site.
 
-The code which performs the changes are written in a stupid tool that just happened to be easy to achieve a minimum viable product in.  We probably need to port that code to a more scalable and reliale tool but that will probably involve shaving a large number of Yaks.  (put link to image of feild full of bald Yaks here.  LOL)
+The code which performs the changes are written in a stupid tool that just happened to be easy to achieve a minimum viable product in.  We probably need to port that code to a more scalable and reliale tool but that will probably involve shaving a large number of Yaks.  (put link to image of field full of bald Yaks here.  LOL)
